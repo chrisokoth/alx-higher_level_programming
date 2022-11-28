@@ -1,1 +1,1 @@
-A Shell script that runs a Python script.
+First Python project!
